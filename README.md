@@ -1,2 +1,2 @@
-# Joseph's codes
-All my coding projects
+# Joseph Python
+All my Python projects
